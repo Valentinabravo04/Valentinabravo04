@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="Banner VB" src="https://github.com/user-attachments/assets/0c4ccd35-391a-4d28-aa22-720d3c472bb9" />
+
+<img width="1584" height="396" alt="White Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/a8d0acf9-6e61-432b-af1f-495f41831e62" />
 
 
 <h1 align="center"> 👋 Hola, Mi nombre es VALENTINA BRAVO CEA  
