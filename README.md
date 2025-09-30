@@ -1,5 +1,4 @@
-
-<img width="1584" height="396" alt="White Minimalist Corporate Personal Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/a8d0acf9-6e61-432b-af1f-495f41831e62" />
+<img width="1584" height="396" alt="Banner de LinkedIn Cabecera Empresa Tecnologia Corporativo Moderno" src="https://github.com/user-attachments/assets/d740f97f-ccd4-4f38-b553-0aea5cd35111" />
 
 
 <h1 align="center"> 👋 Hola, Mi nombre es VALENTINA BRAVO CEA  
