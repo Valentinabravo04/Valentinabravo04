@@ -14,7 +14,7 @@
 
 ---
 
-🌎 Considero que vivir en armonía con la naturaleza es esencial para garantizar el bienestar de las generaciones actuales y futuras, es por eso que la tecnología es nuestra mejor aliada y mi mejor aporte es promover la calidad de esta.
+🌎 🌱 Creo firmemente que vivir en armonía con la naturaleza es clave para el bienestar de las generaciones presentes y futuras. En este camino, la tecnología se convierte en una aliada poderosa, capaz de impulsar soluciones sostenibles y transformadoras. Desde mi rol como QA Engineer, mi compromiso es asegurar la calidad de los productos digitales que contribuyen a ese propósito, garantizando que cada experiencia tecnológica sea confiable, funcional y respetuosa con el entorno.
 
 
 
@@ -58,3 +58,4 @@
 - 📫 valentinabravocea@gmail.com
 - 🔗 [LinkedIn](https://www.linkedin.com/in/valentinabravocea/)
  
+🌎 🌱 La tecnología es nuestra mejor aliada y mi mejor aporte es promover la CALIDAD de esta. 
